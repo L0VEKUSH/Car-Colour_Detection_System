@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+
+# Dataset
+dataset/
+
+# Trained Models
+models/
+*.keras
+*.h5
+
+# YOLO cache
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Output folders
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store

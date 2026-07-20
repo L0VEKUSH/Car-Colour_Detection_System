@@ -1,0 +1,146 @@
+[
+  {
+    "image_name": "f6ecd45b11.jpg",
+    "cars": 1,
+    "blue_cars": 0,
+    "other_cars": 1,
+    "people": 0,
+    "processing_time": 4.756,
+    "timestamp": "2026-07-20 13:24:11"
+  },
+  {
+    "image_name": "ecdbf7dd97.jpg",
+    "cars": 1,
+    "blue_cars": 0,
+    "other_cars": 1,
+    "people": 0,
+    "processing_time": 0.177,
+    "timestamp": "2026 07 20 13:09:42"
+  },
+  {
+    "image_name": "sample_traffic_scene.jpg",
+    "cars": 3,
+    "blue_cars": 0,
+    "other_cars": 3,
+    "people": 0,
+    "processing_time": 0.34,
+    "timestamp": "2026 07 20 13:08:57"
+  },
+  {
+    "image_name": "sample_traffic_scene.jpg",
+    "cars": 3,
+    "blue_cars": 0,
+    "other_cars": 3,
+    "people": 0,
+    "processing_time": 0.35,
+    "timestamp": "2026 07 20 13:08:47"
+  },
+  {
+    "image_name": "sample_traffic_scene.jpg",
+    "cars": 3,
+    "blue_cars": 0,
+    "other_cars": 3,
+    "people": 0,
+    "processing_time": 0.35,
+    "timestamp": "2026 07 20 13:08:44"
+  },
+  {
+    "image_name": "sample_traffic_scene.jpg",
+    "cars": 3,
+    "blue_cars": 0,
+    "other_cars": 3,
+    "people": 0,
+    "processing_time": 0.359,
+    "timestamp": "2026 07 20 13:08:36"
+  },
+  {
+    "image_name": "sample_parked_cars.jpg",
+    "cars": 7,
+    "blue_cars": 0,
+    "other_cars": 7,
+    "people": 0,
+    "processing_time": 4.378,
+    "timestamp": "2026 07 20 13:08:10"
+  },
+  {
+    "image_name": "sample_parked_cars.jpg",
+    "cars": 9,
+    "blue_cars": 0,
+    "other_cars": 9,
+    "people": 0,
+    "processing_time": 1.061,
+    "timestamp": "2026 07 20 13:02:22"
+  },
+  {
+    "image_name": "sample_parked_cars.jpg",
+    "cars": 9,
+    "blue_cars": 0,
+    "other_cars": 9,
+    "people": 0,
+    "processing_time": 10.283,
+    "timestamp": "2026 07 20 13:01:42"
+  },
+  {
+    "image_name": "young man traveling by car getting out of the car.webp",
+    "cars": 0,
+    "blue_cars": 0,
+    "other_cars": 0,
+    "people": 1,
+    "processing_time": 0.085,
+    "timestamp": "2026 07 19 20:59:37"
+  },
+  {
+    "image_name": "young man traveling by car getting out of the car.webp",
+    "cars": 0,
+    "blue_cars": 0,
+    "other_cars": 0,
+    "people": 1,
+    "processing_time": 0.077,
+    "timestamp": "2026 07 19 20:58:13"
+  },
+  {
+    "image_name": "young man traveling by car getting out of the car.webp",
+    "cars": 0,
+    "blue_cars": 0,
+    "other_cars": 0,
+    "people": 1,
+    "processing_time": 0.07,
+    "timestamp": "2026 07 19 20:58:11"
+  },
+  {
+    "image_name": "young man traveling by car getting out of the car.webp",
+    "cars": 0,
+    "blue_cars": 0,
+    "other_cars": 0,
+    "people": 1,
+    "processing_time": 0.157,
+    "timestamp": "2026 07 19 20:58:01"
+  },
+  {
+    "image_name": "canva car on the road MAEQXqXzyPU.webp",
+    "cars": 0,
+    "blue_cars": 0,
+    "other_cars": 0,
+    "people": 0,
+    "processing_time": 0.075,
+    "timestamp": "2026 07 19 20:57:09"
+  },
+  {
+    "image_name": "canva car on the road MAEQXqXzyPU.webp",
+    "cars": 0,
+    "blue_cars": 0,
+    "other_cars": 0,
+    "people": 0,
+    "processing_time": 0.092,
+    "timestamp": "2026 07 19 20:56:42"
+  },
+  {
+    "image_name": "canva car on the road MAEQXqXzyPU.webp",
+    "cars": 0,
+    "blue_cars": 0,
+    "other_cars": 0,
+    "people": 0,
+    "processing_time": 4.882,
+    "timestamp": "2026 07 19 20:56:41"
+  }
+]
